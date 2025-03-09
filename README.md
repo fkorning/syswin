@@ -107,7 +107,9 @@ Manufakture syswin utilities in user-space on secondary drive (L:)
     - space for syswin in the default drive c:\syswin
     
     
-	Prerequisites:
+#-----------------------------------------------------------------------------#
+Preparation:
+#-----------------------------------------------------------------------------#
 
     - start by exposing the real administrator account
 
